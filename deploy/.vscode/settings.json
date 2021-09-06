@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+        "node_modules": true,
+        "bin/*.js": true,
+        "bin/*.d.ts": true,
+        "lib/*.js": true,
+        "lib/*.d.ts": true,
+    }
+}

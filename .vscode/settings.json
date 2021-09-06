@@ -1,0 +1,9 @@
+{
+    "files.eol": "\n",
+    "files.exclude": {
+        ".apt_generated_tests": true,
+        ".apt_generated": true,
+        "deploy": true,
+    },
+    "java.configuration.updateBuildConfiguration": "automatic"
+}
